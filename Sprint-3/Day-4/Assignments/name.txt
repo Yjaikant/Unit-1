@@ -1,0 +1,2 @@
+let name = "Jai Kant Yadav";
+let age	 = "26";
